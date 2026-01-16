@@ -9,6 +9,7 @@ class handler(BaseHTTPRequestHandler):
                 
                 # YouTube
                 "YOUTUBE_DOWNLOAD": "https://scammer-yt-api.vercel.app/api/download",
+                "YOUTUBE_COOKIES_API": "https://saasfetcher-019640c70a50.herokuapp.com/api/cookies/youtube",
                 
                 # DRM Keys APIs
                 "DASH_MPD_KEYS": "https://dash-mpd-keys-steel.vercel.app/getmpdkeys",
@@ -36,6 +37,7 @@ class handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(apis).encode())
         return
+
 
 
 
