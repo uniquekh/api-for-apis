@@ -17,7 +17,7 @@ class handler(BaseHTTPRequestHandler):
                 "ABHINAY_KEYS": "https://scammer-abhinay-keys-mpd.vercel.app/getmpdkeys",
                 "CP_KEYS": "https://new1-scammer-keys-cp.vercel.app/api",
                 "VDO_CIPHER_KEYS": "https://the-new-1vdo-cipher-drm-keys-scammer.vercel.app/",
-                "PW_DRM_KEYS": "https://new1-scammer-pw-drm-keys.vercel.app/api/get-keys",
+                "PW_DRM_KEYS": "https://pw-drm-mpd-keys-40136ae2ba5f.herokuapp.com/api/get-keys",
                 
                 # PW Batch API
                 "PW_BATCH_API": "https://pw-batches-scammer-47d558a1f504.herokuapp.com/api/batch",
@@ -37,6 +37,7 @@ class handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(apis).encode())
         return
+
 
 
 
