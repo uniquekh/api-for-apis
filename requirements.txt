@@ -1,3 +1,4 @@
 # No external dependencies required for this API
 
-flask
+Flask==3.0.3
+
