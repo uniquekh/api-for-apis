@@ -22,5 +22,4 @@ def apis():
         "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4"
     })
 
-def handler(request, context):
-    return handle_request(app, request, context)
+
