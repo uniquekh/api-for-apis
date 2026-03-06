@@ -1,10 +1,11 @@
 from flask import Flask, jsonify
+from vercel_wsgi import handle_request
 
 app = Flask(__name__)
 
 @app.route("/api/apis")
-def get_apis():
-    data = {
+def apis():
+    return jsonify({
         "PROXY_API": "https://new-proxis-api.vercel.app",
         "YOUTUBE_DOWNLOAD": "https://scammer-yt-api.vercel.app/api/download",
         "YOUTUBE_COOKIES_API": "https://saasfetcher-019640c70a50.herokuapp.com/api/cookies/youtube",
@@ -19,9 +20,7 @@ def get_apis():
         "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
         "URL_CHANGE": "https://scammer-url-change.vercel.app/process",
         "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4"
-    }
-    return jsonify(data)
+    })
 
-# Vercel serverless handler
 def handler(request, context):
-    return app(request.environ, lambda *args: None)
+    return handle_request(app, request, context)
