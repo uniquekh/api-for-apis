@@ -23,7 +23,7 @@ class handler(BaseHTTPRequestHandler):
                 "PW_BATCH_API": "https://pw-batches-scammer-47d558a1f504.herokuapp.com/api/batch",
                 
                 # ClassWill API
-                "CW_UTK_API": "https://cw-ut-scammer-52a64964eb2b.herokuapp.com/api/vid-details",
+                "CW_UTK_API": "https://cw-ut-api.vercel.app/api/vid-details",
                 
                 # URL Processing
                 "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
@@ -37,6 +37,7 @@ class handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(apis).encode())
         return
+
 
 
 
