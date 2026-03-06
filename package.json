@@ -1,8 +1,0 @@
-{
-  "name": "api-registry",
-  "version": "1.0.0",
-  "description": "Vercel API registry",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
