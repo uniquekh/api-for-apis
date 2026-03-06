@@ -1,4 +1,2 @@
-# No external dependencies required for this API
-
-Flask==3.0.3
-
+Flask
+vercel-wsgi
