@@ -24,6 +24,7 @@ class handler(BaseHTTPRequestHandler):
                 
                 # ClassWill API
                 "CW_UTK_API": "https://cw-ut-api.vercel.app/api/vid-details",
+            
                 
                 # URL Processing
                 "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
@@ -37,6 +38,7 @@ class handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(apis).encode())
         return
+
 
 
 
