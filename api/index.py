@@ -2,11 +2,10 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-@app.route("/", defaults={"path": ""})
-@app.route("/<path:path>")
-def handler(path):
-    if path == "apis" or path == "api/apis":
-        return jsonify({
+@app.route("/")
+@app.route("/apis")
+def handler():
+    return jsonify({
             "PROXY_API": "https://new-proxis-api.vercel.app",
             "YOUTUBE_DOWNLOAD": "https://scammer-yt-api.vercel.app/api/download",
             "YOUTUBE_COOKIES_API": "https://saasfetcher-019640c70a50.herokuapp.com/api/cookies/youtube",
@@ -22,6 +21,5 @@ def handler(path):
             "URL_CHANGE": "https://scammer-url-change.vercel.app/process",
             "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4"
         })
-    return jsonify({"error": "Not found"}), 404
 
 
