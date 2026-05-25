@@ -4,6 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 @app.route("/apis")
+@app.route("/api/apis")
 def handler():
     return jsonify({
             "PROXY_API": "https://new-proxis-api.vercel.app",
