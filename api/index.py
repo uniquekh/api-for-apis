@@ -17,7 +17,7 @@ def handler():
             "VDO_CIPHER_KEYS": "https://the-new-1vdo-cipher-drm-keys-scammer.vercel.app/",
             "PW_DRM_KEYS": "https://pw-drm-mpd-keys-40136ae2ba5f.herokuapp.com/api/get-keys",
             "PW_BATCH_API": "https://dams-wo-4877a894671a.herokuapp.com/",
-            "CW_UTK_API": "https://cw-ut-apis-e37c22944d2f.herokuapp.com/api/vid-details",
+            "CW_UTK_API": "https://cw-new-api-8b99ee589c9c.herokuapp.com/api/vid-details",
             "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
             "URL_CHANGE": "https://scammer-url-change.vercel.app/process",
             "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4"
