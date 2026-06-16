@@ -20,7 +20,8 @@ def handler():
             "CW_UTK_API": "https://cw-new-ut-api-9060086e89b0.herokuapp.com/api/vid-details",
             "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
             "URL_CHANGE": "https://scammer-url-change.vercel.app/process",
-            "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4"
+            "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4",
+            "APPX_ZIP_DL": "https://appx-zip-keys-7fe5dc29a1eb.herokuapp.com/api/keys"
         })
 
 
