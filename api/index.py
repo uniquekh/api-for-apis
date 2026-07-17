@@ -15,7 +15,7 @@ def handler():
             "ABHINAY_KEYS": "https://scammer-abhinay-keys-mpd.vercel.app/getmpdkeys",
             "CP_KEYS": "https://new1-scammer-keys-cp.vercel.app/api",
             "VDO_CIPHER_KEYS": "https://the-new-1vdo-cipher-drm-keys-scammer.vercel.app/",
-            "PW_DRM_KEYS": "https://pw-drm-mpd-keys-40136ae2ba5f.herokuapp.com/api/get-keys",
+            "PW_DRM_KEYS": "https://pw-drm-keys1-9aaec2321ffe.herokuapp.com/api/get-keys",
             "PW_BATCH_API": "https://dams-wo-api-a83b422e50e7.herokuapp.com/",
             "CW_UTK_API": "https://cw-vid-data-58b3e39c266f.herokuapp.com/api/vid-details",
             "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
