@@ -22,7 +22,7 @@ def handler():
             "URL_CHANGE": "https://scammer-url-change.vercel.app/process",
             "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4",
             "APPX_ZIP_DL": "https://scammer-zip-keys-03bcd5a4c69b.herokuapp.com/api/keys",
-            "VID_CRYPT_KEYS" : "https://vid-crypt-keys-f7373923d196.herokuapp.com"
+            "VID_CRYPT_KEYS" : "https://vid-crypt-keys1-ac44f9462407.herokuapp.com"
         })
 
 
