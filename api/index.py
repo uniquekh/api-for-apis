@@ -23,7 +23,8 @@ def handler():
             "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4",
             "APPX_ZIP_DL": "https://zipkeysfrmck-79efac59358f.herokuapp.com/get-keys",
             "VID_CRYPT_KEYS" : "https://vid-crypt-keys11-60f9a28465ff.herokuapp.com",
-            "VPS_PROXY_URL" : "http://myuser:utkarsh1234@217.216.78.69:3128"
+            "VPS_PROXY_URL" : "http://myuser:utkarsh1234@217.216.78.69:3128",
+            "ZIP_CK_API" : "https://appx-zip-keys-from-zip-url-d442cf254956.herokuapp.com"
         })
 
 
