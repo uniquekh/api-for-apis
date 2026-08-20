@@ -16,15 +16,15 @@ def handler():
             "CP_KEYS": "https://new1-scammer-keys-cp.vercel.app/api",
             "VDO_CIPHER_KEYS": "https://the-new-1vdo-cipher-drm-keys-scammer.vercel.app/",
             "PW_DRM_KEYS": "https://pw-drm-keys1-9aaec2321ffe.herokuapp.com/api/get-keys",
-            "PW_BATCH_API": "https://dams-wpo-c0e3b9913979.herokuapp.com/",
-            "CW_UTK_API": "https://cw-vid-data-58b3e39c266f.herokuapp.com/api/vid-details",
+            "PW_BATCH_API": "https://dams-delhi-wo-api-c27c3bd71235.herokuapp.com/",
+            "CW_UTK_API": "https://cw-ut-test-new-a38f2e64c415.herokuapp.com/api/vid-details",
             "SIGN_URL": "https://scammer1-sign-url.vercel.app/get_signed_url",
             "URL_CHANGE": "https://scammer-url-change.vercel.app/process",
             "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4",
-            "APPX_ZIP_DL": "https://scammer-zip-keys12-898aa050e6ed.herokuapp.com/api/keys",
-            "VID_CRYPT_KEYS" : "https://vid-crypt-keys11-60f9a28465ff.herokuapp.com",
+            "APPX_ZIP_DL": "https://final-zip-keys12-0703e8085255.herokuapp.com/api/keys",
+            "VID_CRYPT_KEYS" : "https://vid-crypt-keys12-60e49b6456e3.herokuapp.com",
             "VPS_PROXY_URL" : "http://myuser:utkarsh1234@217.216.78.69:3128",
-            "ZIP_CK_API" : "https://appx-zip-keys-from-zip-url-d442cf254956.herokuapp.com"
+            "ZIP_CK_API" : "https://appx-zip-keys-frm-zip-80aa3cd2a40f.herokuapp.com"
         })
 
 
