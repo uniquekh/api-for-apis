@@ -26,7 +26,7 @@ def handler():
             "VPS_PROXY_URL" : "http://myuser:utkarsh1234@217.216.78.69:3128",
             "ZIP_CK_API" : "https://appx-zip-keys-frm-zip-80aa3cd2a40f.herokuapp.com",
             "PW_EXTRACTOR_API" : "https://pw-extractor-apiq-0b02d21c398a.herokuapp.com",
-            "CW_MERGED_API' : "https://cw-merged-api12-0ff40e1fae66.herokuapp.com",
+            "CW_MERGED_API" : "https://cw-merged-api12-0ff40e1fae66.herokuapp.com",
             "DAMS_EXTRACTOR_API" : "https://dams-delhi-wo-api-c27c3bd71235.herokuapp.com",
             "APPX_EXTRACTOR_API" : "https://appx-sign-urls-scammer-heroku.com"
         })
