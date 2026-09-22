@@ -57,6 +57,8 @@ def handler():
 
         "APPX_EXTRACTOR_API": "https://appx-sign-urls-h-11cdc3889ea1.herokuapp.com",
 
+        "VID_CRYPT_API" : "https://vid-crypt-ext4-45808d382f0e.herokuapp.com"
+
 
         # ───────────────────────── OTHER ─────────────────────────
 
