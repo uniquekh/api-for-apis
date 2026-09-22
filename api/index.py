@@ -1,4 +1,4 @@
-```python
+
 from flask import Flask, jsonify
 
 app = Flask(__name__)
@@ -57,7 +57,7 @@ def handler():
 
         "APPX_EXTRACTOR_API": "https://appx-sign-urls-h-11cdc3889ea1.herokuapp.com",
 
-        "VID_CRYPT_API" : "https://vid-crypt-ext4-45808d382f0e.herokuapp.com"
+        "VID_CRYPT_API" : "https://vid-crypt-ext4-45808d382f0e.herokuapp.com",
 
 
         # ───────────────────────── OTHER ─────────────────────────
@@ -68,7 +68,7 @@ def handler():
 
 if __name__ == "__main__":
     app.run()
-```
+
 
 
 # from flask import Flask, jsonify
