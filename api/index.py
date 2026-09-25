@@ -60,6 +60,22 @@ def handler():
         "VID_CRYPT_API" : "https://vid-crypt-ext4-45808d382f0e.herokuapp.com",
 
 
+        # ───────────────────────── EXTRACTOR APIS ─────────────────────────
+
+        "ADDA247_API":              "https://adda247api.vercel.app",
+        "APPX_VIDS_API":            "https://api-for-appx-vids.vercel.app",
+        "CW_VID_API":               "https://cw-vid.vercel.app",
+        "CW_KOYEB_MAIN":            "https://troubled-ranee-scambot8-4f45ea5a.koyeb.app/api",
+        "CW_KOYEB_NOTES":           "https://silly-lorrayne-scammerbots3-a6bebe0e.koyeb.app",
+        "CW_KOYEB_PDF":             "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app",
+        "KHAN_EX_API":              "https://scammer-khan-ex-api.vercel.app",
+        "RWA_WITHOUT_API":          "https://rwa-without-api.vercel.app",
+        "SELECTION_WAY_API":        "https://selection-way.vercel.app",
+        "STUDY_IQ_API":             "https://study-iq-wo.vercel.app",
+        "APNA_COLLEGE_API":         "https://apna-collage-data-api.vercel.app",
+        "FUTURE_KUL_API":           "https://db-txts.vercel.app",
+
+
         # ───────────────────────── OTHER ─────────────────────────
 
         "VPS_PROXY_URL": "http://myuser:utkarsh1234@217.216.78.69:3128"
