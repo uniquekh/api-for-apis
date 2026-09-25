@@ -65,7 +65,7 @@ def handler():
         "ADDA247_API":              "https://adda247api.vercel.app",
         "APPX_VIDS_API":            "https://api-for-appx-vids.vercel.app",
         "CW_VID_API":               "https://cw-vid.vercel.app",
-        "CW_KOYEB_MAIN":            "https://troubled-ranee-scambot8-4f45ea5a.koyeb.app/api",
+        "CW_KOYEB_MAIN":            "https://troubled-ranee-scambot8-4f45ea5a12345.koyeb.app/api",
         "CW_KOYEB_NOTES":           "https://silly-lorrayne-scammerbots3-a6bebe0e.koyeb.app",
         "CW_KOYEB_PDF":             "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app",
         "KHAN_EX_API":              "https://scammer-khan-ex-api.vercel.app",
