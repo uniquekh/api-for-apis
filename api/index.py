@@ -55,7 +55,7 @@ def handler():
 
         "DAMS_EXTRACTOR_API": "https://dams-wo-api1-74508b6bb4ea.herokuapp.com",
 
-        "APPX_EXTRACTOR_API": "https://appx-sign-urls-h-11cdc3889ea1.herokuapp.com",
+        "APPX_EXTRACTOR_API": "https://appx-sign-urls-tes-9bef20f0ce55.herokuapp.com",
 
         "VID_CRYPT_API" : "https://vid-crypt-ex-5api-71775d2f22df.herokuapp.com",
 
