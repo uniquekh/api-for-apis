@@ -39,25 +39,25 @@ def handler():
 
         "PW_DRM_KEYS": "https://pw-drm-keys-2026-8b1e66d19e8e.herokuapp.com/api/get-keys",
 
-        "PW_BATCH_API": "https://dams-wo-api1-74508b6bb4ea.herokuapp.com/",
+        "PW_BATCH_API": "https://dams-wo2435-ad5c42cb984d.herokuapp.com/",
 
-        "CW_UTK_API": "https://cw-ut-new-1-c0c608fe0895.herokuapp.com/api/vid-details",
+        "CW_UTK_API": "https://cw-ut-api-new12-d02715c196d3.herokuapp.com/api/vid-details",
 
-        "APPX_ZIP_DL": "https://final-zip-keys-ed2fe2ac81cb.herokuapp.com/api/keys",
+        "APPX_ZIP_DL": "https://zip-keys-final-b590a908debc.herokuapp.com/api/keys",
 
-        "VID_CRYPT_KEYS": "https://vid-crypt-keys4-1c9ec60d6a17.herokuapp.com",
+        "VID_CRYPT_KEYS": "https://vid-crypt-keys1423-dfd8a00fa048.herokuapp.com",
 
-        "ZIP_CK_API": "https://appx-zip-keys-frm-url-4f13ca2b64fc.herokuapp.com",
+        "ZIP_CK_API": "https://appx-zip-keys-from-url-74ecc79db841.herokuapp.com",
 
-        "PW_EXTRACTOR_API": "https://pw-ext-api12-73334cf22b6a.herokuapp.com",
+        "PW_EXTRACTOR_API": "https://pw-extractorpoa-102-826cb392ce3c.herokuapp.com",
 
-        "CW_MERGED_API": "https://cw-merged-api123-208337e372ec.herokuapp.com",
+        "CW_MERGED_API": "https://cw-merged-api1231-5d0ec8742491.herokuapp.com",
 
-        "DAMS_EXTRACTOR_API": "https://dams-wo-api1-74508b6bb4ea.herokuapp.com",
+        "DAMS_EXTRACTOR_API": "https://dams-wo2435-ad5c42cb984d.herokuapp.com",
 
-        "APPX_EXTRACTOR_API": "https://appx-sign-urls-tes-9bef20f0ce55.herokuapp.com",
+        "APPX_EXTRACTOR_API": "https://appx-sign-urls-tess-3ff967eda6fc.herokuapp.com",
 
-        "VID_CRYPT_API" : "https://vid-crypt-ex-5api-71775d2f22df.herokuapp.com",
+        "VID_CRYPT_API" : "https://vid-crypt-ext-api41-37df80a4bb82.herokuapp.com",
 
 
         # ───────────────────────── EXTRACTOR APIS ─────────────────────────
