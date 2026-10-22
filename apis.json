@@ -1,5 +1,4 @@
 {
-  "VERCEL": {
     "PROXY_API": "https://new-proxis-api.vercel.app",
     "YOUTUBE_DOWNLOAD": "https://scammer-yt-api.vercel.app/api/download",
     "DASH_MPD_KEYS": "https://dash-mpd-keys-steel.vercel.app/getmpdkeys",
@@ -36,9 +35,7 @@
     "SELECTION_WAY_API": "https://selection-way.vercel.app",
     "STUDY_IQ_API": "https://study-iq-wo.vercel.app",
     "APNA_COLLEGE_API": "https://apna-collage-data-api.vercel.app",
-    "FUTURE_KUL_API": "https://db-txts.vercel.app",
+    "FUTURE_KUL_API": "https://db-txts.vercel.app"
 
-    
-    "VPS_PROXY_URL": "http://myuser:utkarsh1234@217.216.78.69:3128"
-  }
+
 }
