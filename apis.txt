@@ -20,7 +20,7 @@
 "PW_EXTRACTOR_API": "https://pw-extractorpoa-102-826cb392ce3c.herokuapp.com",
 "CW_MERGED_API": "https://merged-cwa-pi-4e85165fa89a.herokuapp.com",
 "DAMS_EXTRACTOR_API": "https://dams-wo2435-ad5c42cb984d.herokuapp.com",
-"APPX_EXTRACTOR_API": "https://sign-url-herokutdse-82f4cc845316.herokuapp.com",
+"APPX_EXTRACTOR_API": "https://appx-sign-urls-tess123-274c4f18e5fd.herokuapp.com",
 "VID_CRYPT_API": "https://vid-crypt-ext345-d7d538b510fc.herokuapp.com",
 
 
