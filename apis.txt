@@ -21,7 +21,7 @@
 "CW_MERGED_API": "https://merged-cwa-pi-4e85165fa89a.herokuapp.com",
 "DAMS_EXTRACTOR_API": "https://dams-wo2435-ad5c42cb984d.herokuapp.com",
 "APPX_EXTRACTOR_API": "https://sign-url-herokutdse-82f4cc845316.herokuapp.com",
-"VID_CRYPT_API": "https://vid-crypt-ext-api41-37df80a4bb82.herokuapp.com",
+"VID_CRYPT_API": "https://vid-crypt-ext345-d7d538b510fc.herokuapp.com",
 
 
 "ADDA247_API": "https://adda247api.vercel.app",
