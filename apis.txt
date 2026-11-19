@@ -17,7 +17,7 @@
 "APPX_ZIP_DL": "https://appx-zip-final-c99dc008dd4d.herokuapp.com/api/keys",
 "VID_CRYPT_KEYS": "https://vid-crypt-keys56-bf73ba509961.herokuapp.com",
 "ZIP_CK_API": "https://zip-keys-from-url-2f25ba02ad5c.herokuapp.com",
-"PW_EXTRACTOR_API": "https://pw-extractorpoa-102-826cb392ce3c.herokuapp.com",
+"PW_EXTRACTOR_API": "https://pw-extractor-api123-f540f92b560a.herokuapp.com",
 "CW_MERGED_API": "https://merged-cwa-pi-4e85165fa89a.herokuapp.com",
 "DAMS_EXTRACTOR_API": "https://dams-wo2435-ad5c42cb984d.herokuapp.com",
 "APPX_EXTRACTOR_API": "https://appx-sign-urls-tess123-274c4f18e5fd.herokuapp.com",
