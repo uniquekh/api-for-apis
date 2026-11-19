@@ -11,7 +11,7 @@
 "ZOOM_API": "https://new1-scammer-zoom-api.vercel.app/api/get-mp4",
 
 "YOUTUBE_COOKIES_API": "https://saasfetcher-019640c70a50.herokuapp.com/api/cookies/youtube",
-"PW_DRM_KEYS": "https://pw-drm-keys-2026-8b1e66d19e8e.herokuapp.com/api/get-keys",
+"PW_DRM_KEYS": "https://pw-drm-keys123-c9fddb8b10df.herokuapp.com/api/get-keys",
 "PW_BATCH_API": "https://dams-wo2435-ad5c42cb984d.herokuapp.com/",
 "CW_UTK_API": "https://cw-ut-api-52f7588476db.herokuapp.com/api/vid-details",
 "APPX_ZIP_DL": "https://appx-zip-final-c99dc008dd4d.herokuapp.com/api/keys",
